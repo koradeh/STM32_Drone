@@ -1,0 +1,8 @@
+../Core/Src/Altitude.c:27:6:Alt_Init	1
+../Core/Src/Altitude.c:46:6:baroCalibrate	1
+../Core/Src/Altitude.c:62:6:isBaroReady	1
+../Core/Src/Altitude.c:67:6:calculateEstimatedAltitude	5
+../Core/Src/Altitude.c:136:7:getAltitudeCm	1
+../Core/Src/Altitude.c:141:7:getAltitudeDerivative	1
+../Core/Src/Altitude.c:147:6:Altitude_Data_Fusion	4
+../Core/Src/Altitude.c:182:7:altitudePidCalculate	2

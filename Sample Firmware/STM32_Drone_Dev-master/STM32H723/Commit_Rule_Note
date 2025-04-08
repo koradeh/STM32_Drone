@@ -1,0 +1,57 @@
+Beginning of Coding Session :
+
+	cd C:/Github/STM32_Drone_Dev/STM32H723 	//open directory
+	git branch 								//check for which branch
+	git checkout develop 					// switch to develop branch
+	git pull origin master 					//pull code from master to origin
+
+
+
+
+End of coding session :
+
+	Save in Cube IDE, open Git perspective, stage the changes and write meaningful commit messages, then hit "Commit" don't hit "Commit and Push"
+	
+	cd C:/Github/STM32_Drone_Dev/STM32H723 	//select directory
+	git branch 								//check for current location
+	git push origin develop 				//if at develop, push it to remote
+	git checkout master  					//switch to master branch
+	git merge develop   					//merge the changes
+	git push origin master 					//publish master 
+
+
+
+For Changing Branch :
+
+	git branch -a							//list out all the branches, including remote branch
+	git branch -r							//list out all the remote branch
+	git checkout develop 					//switch to develop
+	git checkout master  					//switch to master
+	
+
+Updating Git Branches and try to pull remote branch to local:
+
+	git fetch origin						//Fetch the branches from the remote repository
+	git branch -a							//list out all the branches, including remote branch , red ones are remote
+	
+	git checkout -b <local-branch-name> origin/<remote-branch-name>  //Create a local branch that track the remote branch
+	
+
+
+
+Commit Format:
+
+	<Name of added feature> 
+	<Explaination of the feature> <Simple Explaination of the added algorithm> <Purpose of adding the feature>
+	
+		<Separate with ENTER>
+	
+	<Name of second added feature>........
+	
+		<Separate with ENTER>
+	
+	<Name of third added feature>.........
+	
+		<Separate with ENTER>
+	
+	<Add Signed-off-by>

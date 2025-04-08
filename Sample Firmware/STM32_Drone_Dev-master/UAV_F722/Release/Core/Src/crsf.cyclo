@@ -1,0 +1,4 @@
+../Core/Src/crsf.c:44:6:Packet_Type_Arrange	6
+../Core/Src/crsf.c:113:6:map_channels	4
+../Core/Src/crsf.c:80:6:Parse_ELRS_Channels	3
+../Core/Src/crsf.c:144:6:Process_Link_Stat_Packets	5

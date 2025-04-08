@@ -1,0 +1,7 @@
+../Core/Src/CommonMath/maths.c:29:7:sin_approx	7
+../Core/Src/CommonMath/maths.c:41:7:cos_approx	1
+../Core/Src/CommonMath/maths.c:49:7:atan2_approx	7
+../Core/Src/CommonMath/maths.c:76:7:acos_approx	2
+../Core/Src/CommonMath/maths.c:86:7:asin_approx	1
+../Core/Src/CommonMath/maths.c:91:7:mod	1
+../Core/Src/CommonMath/maths.c:96:6:isWithinTolerance	3

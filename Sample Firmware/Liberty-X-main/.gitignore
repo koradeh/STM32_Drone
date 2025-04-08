@@ -1,0 +1,9 @@
+/__vm/
+/.vs/
+Liberty-X.sln
+Liberty-X.vcxproj
+Liberty-X.vcxproj.filters
+Liberty-X.vcxproj.user
+!/Release/Liberty-X.bin
+/Release/
+

@@ -1,0 +1,11 @@
+../Core/Src/CommonMath/crc.c:14:10:crc16_ccitt	3
+../Core/Src/CommonMath/crc.c:27:10:crc16_ccitt_update	2
+../Core/Src/CommonMath/crc.c:38:6:crc16_ccitt_sbuf_append	2
+../Core/Src/CommonMath/crc.c:48:9:crc8_dvb_s2	3
+../Core/Src/CommonMath/crc.c:61:9:crc8_dvb_s2_update	2
+../Core/Src/CommonMath/crc.c:72:6:crc8_dvb_s2_sbuf_append	2
+../Core/Src/CommonMath/crc.c:82:9:crc8_xor_update	2
+../Core/Src/CommonMath/crc.c:93:6:crc8_xor_sbuf_append	2
+../Core/Src/CommonMath/crc.c:103:9:crc8	3
+../Core/Src/CommonMath/crc.c:115:9:crc8_update	2
+../Core/Src/CommonMath/crc.c:126:9:crc8_sum_update	2

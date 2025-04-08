@@ -1,0 +1,11 @@
+PCB design samples
+https://github.com/rishikesh2715/STM32F7_FC/blob/main/Schematic.pdf
+https://www.pcbway.com/project/shareproject/STM32F722_flight_control_dd1fcd79.html
+https://github.com/pms67/HadesFCS/
+
+Receiver:
+https://betafpv.com/products/elrs-nano-receiver
+https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz
+https://github.com/AnyLeaf/elrs-hardware/blob/main/dual%20radio%202.4Ghz%20schematic.png
+https://www.expresslrs.org/hardware/special-targets/diy-rx/#custom-esp-900-mhz-rx (flashing and connection)
+

@@ -1,0 +1,7 @@
+../Core/Src/CommonMath/maths.c:29:7:sin_approx	24	static
+../Core/Src/CommonMath/maths.c:41:7:cos_approx	16	static
+../Core/Src/CommonMath/maths.c:49:7:atan2_approx	48	static
+../Core/Src/CommonMath/maths.c:76:7:acos_approx	24	static
+../Core/Src/CommonMath/maths.c:86:7:asin_approx	16	static
+../Core/Src/CommonMath/maths.c:91:7:mod	16	static
+../Core/Src/CommonMath/maths.c:96:6:isWithinTolerance	40	static

@@ -1,0 +1,5 @@
+../Core/Src/dShot.c:103:13:dshot_dma_tc_callback	5
+../Core/Src/dShot.c:168:13:dshot_prepare_dmabuffer	2
+../Core/Src/dShot.c:39:6:dshot_init	2
+../Core/Src/dShot.c:46:6:dshot_write	1
+../Core/Src/dShot.c:208:6:dshot_check_threshold	5

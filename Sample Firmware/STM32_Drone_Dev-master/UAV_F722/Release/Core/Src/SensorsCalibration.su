@@ -1,0 +1,4 @@
+../Core/Src/SensorsCalibration.c:12:6:accCalibration	0	static
+../Core/Src/SensorsCalibration.c:41:6:gyroCalibration	8	static
+../Core/Src/SensorsCalibration.c:70:6:saveCalibrationOffsets	40	static
+../Core/Src/SensorsCalibration.c:100:6:loadCalibrationOffsets	0	static
